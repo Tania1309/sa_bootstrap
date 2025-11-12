@@ -27,3 +27,30 @@
 #carouselExampleIndicators{
     margin: 0 auto;
 }
+
+/* Seção Adotar */
+
+.btn{
+  background-color: #8b00f6;
+  color: white;
+    margin-bottom: 10px;
+}
+
+.btn:hover{
+  background-color: #f4f737;
+  color: rgb(0, 0, 0);
+  margin-bottom: 10px;
+}
+
+.w-50{
+  background-color: whitesmoke;
+  border: 2px solid gainsboro;
+  border-radius: 10px;
+  box-shadow: 3px 3px 0px 3px rgb(186, 183, 183) ;
+}
+
+.form-row{
+ width: 600px;
+ margin-left: 14px;
+}
+
